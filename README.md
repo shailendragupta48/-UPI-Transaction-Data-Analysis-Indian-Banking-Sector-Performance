@@ -1,9 +1,11 @@
-# -UPI-Transaction-Data-Analysis-Indian-Banking-Sector-Performance
+
 
 # 📊 UPI Transaction Data Analysis in Indian Banking Sector
 
 
 ## 🔍 What is UPI?
+![UPI Logo](https://upload.wikimedia.org/wikipedia/commons/3/34/Unified_Payments_Interface_logo.svg)
+
 
 Unified Payments Interface (UPI) is a real-time payment system developed by the **National Payments Corporation of India (NPCI)** that facilitates inter-bank transactions via mobile platforms. It allows users to send or receive money instantly using a UPI ID, without needing bank account details.
 
